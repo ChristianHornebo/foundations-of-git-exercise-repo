@@ -15,7 +15,7 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
 
 TEST
 
-## Resetting the repo
+## Resetting the repo TEST MAIN
 
 Each exercise will provide instructions on how to reset the repo to the previous state.
 
